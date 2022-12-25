@@ -51,4 +51,7 @@ Go to chrome://net-internals/#hsts. Enter 3rdrevolution.com under Delete domain 
 
 ## Edit by MRJ
 
-Okie done!
+Token for project :
+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
+
+
